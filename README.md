@@ -29,7 +29,7 @@ Read the [creator infrastructure showcase](https://github.com/vIlkAm/creator-inf
 
 - **TRIBE video engagement research:** a pre-registered study on 1,486 clips. The primary improvement was +0.009 Spearman against a +0.020 threshold: a no-go result.
 - **clip-moments:** transcript-based matching of short clips to long-form source timestamps. An internal experiment matched 89% of clips with speech in one creator's catalogue, with broad caption coverage.
-- **coding-memory:** a local CLI for searchable coding-session notes and corrections. Release preparation is in progress.
+- **[coding-memory](https://github.com/vIlkAm/coding-memory):** an open-source (MIT) episodic memory CLI for coding agents. It captures session debriefs and corrections, and offers scored keyword search and pattern consolidation over plain markdown files. [v0.1.0](https://github.com/vIlkAm/coding-memory/releases/tag/v0.1.0), 194 tests in CI.
 - **agent-voice-bridge:** a local bridge for returning spoken decisions to coding agents. Release preparation is in progress.
 
 I'm interested in creator tools, applied AI and founders who build and operate their own systems.
